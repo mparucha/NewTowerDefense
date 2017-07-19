@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="16" height="32" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" source="test.tsx"/>
+ <layer name="Kachelebene 1" width="16" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxTZGRgUBzFo3gUj+JRPIpH8YjCAJ3wRAE=
+  </data>
+ </layer>
+ <layer name="Kachelebene 2" width="16" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYMADGBkY/gMpBUZ8ivDrX8w4qn9U/6h+SvQ7APE+JGxPgv6TQHyMAYFPkuCeg0B1TAwIXM8wOMKD2vrnoYUvLpyAy34s4YwLYw1/qLnxDKjhjQsr0SlcRvUPHf33GcjTDwA3aDCJ
+  </data>
+ </layer>
+ <layer name="Kachelebene 3" width="16" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhcIAmIF5GpjxZqqaEPHeDzHzl+J1YfITXU8h8xYKDjYKDMH0yAVn4lNw2PAuoCfPFLaRzh00+tdJWEg02pHcT6fSDLAnrZDQBotgvT
+  </data>
+ </layer>
+ <layer name="Kachelebene 4" width="16" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBie4PdAO2CQgZEWHrcH2gEEwEiLD0oBrvjEJj4atphgsIbJYHPXYC83qA0A9dIJTw==
+  </data>
+ </layer>
+</map>

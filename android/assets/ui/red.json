@@ -26,12 +26,12 @@
     }
   },
   "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
-  "default": { "down": "blue_button01", "up": "blue_button00" },
-  "toggle": { "down": "blue_button01", "checked": "blue_button01", "up": "blue_button00" }
-},
+    "default": { "down": "red_button12", "up": "red_button11" },
+    "toggle": { "down": "red_button12", "checked": "red_button12", "up": "red_button11" }
+  },
   "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
-  "default": { "down": "blue_button01", "up": "blue_button00", "font": "default-font", "fontColor": "white" },
-  "toggle": { "down": "blue_button01", "up": "blue_button00", "checked": "blue_button01", "font": "default-font", "fontColor": "white",
-    "downFontColor": "white" }
-}
+    "default": { "down": "red_button12", "up": "red_button11", "font": "default-font", "fontColor": "white" },
+    "toggle": { "down": "red_button12", "up": "red_button11", "checked": "red_button12", "font": "default-font", "fontColor": "white",
+      "downFontColor": "white" }
+  }
 }

@@ -21,7 +21,8 @@ import de.marekparucha.newtowerdefense.NewTowerDefense;
 
 public class MainMenuScreen implements Screen {
 
-    private Skin skin;
+    private Skin skinGreen;
+    private Skin skinRed;
     private Stage stage;
     private NewTowerDefense ntd;
 
@@ -33,33 +34,50 @@ public class MainMenuScreen implements Screen {
     @Override
     public void show() {
         ntd.batch = new SpriteBatch();
-        skin = new Skin();
+        skinGreen = new Skin();
+        skinRed = new Skin();
         FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal("ui/kenvector_future_thin.ttf"));
         FreeTypeFontGenerator.FreeTypeFontParameter parameter = new FreeTypeFontGenerator.FreeTypeFontParameter();
         parameter.size = 48;
         BitmapFont font12 = generator.generateFont(parameter); // font size 12 pixels
         generator.dispose(); // don't forget to dispose to avoid memory leaks!
-        skin.add("default-font",font12,BitmapFont.class);
-        skin.addRegions(new TextureAtlas(Gdx.files.internal("ui/blue.atlas")));
-        skin.load(Gdx.files.internal("ui/blue.json"));
+        skinGreen.add("default-font",font12,BitmapFont.class);
+        skinGreen.addRegions(new TextureAtlas(Gdx.files.internal("ui/green.atlas")));
+        skinGreen.load(Gdx.files.internal("ui/green.json"));
+        skinRed.add("default-font",font12,BitmapFont.class);
+        skinRed.addRegions(new TextureAtlas(Gdx.files.internal("ui/red.atlas")));
+        skinRed.load(Gdx.files.internal("ui/red.json"));
         stage = new Stage();
 
-        final TextButton button = new TextButton("Click me", skin, "default");
+        final TextButton startButton = new TextButton("Start", skinGreen, "default");
+        final TextButton exitButton = new TextButton("Exit", skinRed, "default");
 
-        button.setWidth(1000f);
-        button.setHeight(200f);
-        button.setPosition(Gdx.graphics.getWidth() /2 - 100f, Gdx.graphics.getHeight()/2 - 100f);
-        button.getLabel().getName();
-        Gdx.app.log("font",skin.getFont("default-font").getCapHeight()+" "+button.getLabel().getStyle().font);
+        startButton.setWidth(1000f);
+        startButton.setHeight(200f);
+        startButton.setPosition(Gdx.graphics.getWidth() /2 - 500f, Gdx.graphics.getHeight()/2);
+        exitButton.setWidth(1000f);
+        exitButton.setHeight(200f);
+        exitButton.setPosition(Gdx.graphics.getWidth() /2 - 500f, Gdx.graphics.getHeight()/2 - 300f);
+        startButton.getLabel().getName();
+        Gdx.app.log("font", skinGreen.getFont("default-font").getCapHeight()+" "+startButton.getLabel().getStyle().font);
 
-        button.addListener(new ClickListener(){
+        startButton.addListener(new ClickListener(){
             @Override
             public void clicked(InputEvent event, float x, float y){
-                button.setText("You clicked the button");
+                ntd.setScreen(new InGameScreen(ntd));
+
             }
         });
 
-        stage.addActor(button);
+        exitButton.addListener(new ClickListener(){
+            @Override
+            public void clicked(InputEvent event, float x, float y){
+                Gdx.app.exit();
+            }
+        });
+
+        stage.addActor(startButton);
+        stage.addActor(exitButton);
 
         Gdx.input.setInputProcessor(stage);
     }
@@ -67,7 +85,7 @@ public class MainMenuScreen implements Screen {
 
     @Override
     public void render(float delta) {
-        Gdx.gl.glClearColor(1, 0, 0, 1);
+        Gdx.gl.glClearColor(1, 1, 1, 1);
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
         ntd.batch.begin();

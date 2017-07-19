@@ -1,0 +1,2098 @@
+
+maps.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+towerDefense_tile001
+  rotate: false
+  xy: 1, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile002
+  rotate: false
+  xy: 1, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile003
+  rotate: false
+  xy: 67, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile004
+  rotate: false
+  xy: 1, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile005
+  rotate: false
+  xy: 67, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile006
+  rotate: false
+  xy: 133, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile007
+  rotate: false
+  xy: 1, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile008
+  rotate: false
+  xy: 67, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile009
+  rotate: false
+  xy: 133, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile010
+  rotate: false
+  xy: 199, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile011
+  rotate: false
+  xy: 1, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile012
+  rotate: false
+  xy: 67, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile013
+  rotate: false
+  xy: 133, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile014
+  rotate: false
+  xy: 199, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile015
+  rotate: false
+  xy: 265, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile016
+  rotate: false
+  xy: 1, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile017
+  rotate: false
+  xy: 67, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile018
+  rotate: false
+  xy: 133, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile019
+  rotate: false
+  xy: 199, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile020
+  rotate: false
+  xy: 265, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile021
+  rotate: false
+  xy: 331, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile022
+  rotate: false
+  xy: 1, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile023
+  rotate: false
+  xy: 67, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile024
+  rotate: false
+  xy: 133, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile157
+  rotate: false
+  xy: 133, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile162
+  rotate: false
+  xy: 133, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile231
+  rotate: false
+  xy: 133, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile025
+  rotate: false
+  xy: 199, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile026
+  rotate: false
+  xy: 265, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile027
+  rotate: false
+  xy: 331, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile028
+  rotate: false
+  xy: 397, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile029
+  rotate: false
+  xy: 1, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile098
+  rotate: false
+  xy: 1, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile160
+  rotate: false
+  xy: 1, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile241
+  rotate: false
+  xy: 1, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile030
+  rotate: false
+  xy: 67, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile031
+  rotate: false
+  xy: 133, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile032
+  rotate: false
+  xy: 199, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile033
+  rotate: false
+  xy: 265, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile034
+  rotate: false
+  xy: 331, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile103
+  rotate: false
+  xy: 331, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile159
+  rotate: false
+  xy: 331, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile172
+  rotate: false
+  xy: 331, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile035
+  rotate: false
+  xy: 397, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile036
+  rotate: false
+  xy: 463, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile037
+  rotate: false
+  xy: 1, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile038
+  rotate: false
+  xy: 67, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile039
+  rotate: false
+  xy: 133, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile040
+  rotate: false
+  xy: 199, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile041
+  rotate: false
+  xy: 265, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile042
+  rotate: false
+  xy: 331, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile043
+  rotate: false
+  xy: 397, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile044
+  rotate: false
+  xy: 463, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile045
+  rotate: false
+  xy: 529, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile046
+  rotate: false
+  xy: 1, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile047
+  rotate: false
+  xy: 67, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile048
+  rotate: false
+  xy: 133, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile049
+  rotate: false
+  xy: 199, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile050
+  rotate: false
+  xy: 265, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile055
+  rotate: false
+  xy: 265, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile060
+  rotate: false
+  xy: 265, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile051
+  rotate: false
+  xy: 331, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile052
+  rotate: false
+  xy: 397, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile053
+  rotate: false
+  xy: 463, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile054
+  rotate: false
+  xy: 529, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile056
+  rotate: false
+  xy: 595, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile057
+  rotate: false
+  xy: 1, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile058
+  rotate: false
+  xy: 67, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile059
+  rotate: false
+  xy: 133, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile061
+  rotate: false
+  xy: 199, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile062
+  rotate: false
+  xy: 265, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile063
+  rotate: false
+  xy: 331, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile064
+  rotate: false
+  xy: 397, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile065
+  rotate: false
+  xy: 463, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile066
+  rotate: false
+  xy: 529, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile067
+  rotate: false
+  xy: 595, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile068
+  rotate: false
+  xy: 661, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile069
+  rotate: false
+  xy: 1, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile070
+  rotate: false
+  xy: 67, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile071
+  rotate: false
+  xy: 133, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile072
+  rotate: false
+  xy: 199, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile073
+  rotate: false
+  xy: 265, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile074
+  rotate: false
+  xy: 331, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile075
+  rotate: false
+  xy: 397, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile076
+  rotate: false
+  xy: 463, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile077
+  rotate: false
+  xy: 529, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile078
+  rotate: false
+  xy: 595, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile079
+  rotate: false
+  xy: 661, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile080
+  rotate: false
+  xy: 727, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile081
+  rotate: false
+  xy: 1, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile082
+  rotate: false
+  xy: 67, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile083
+  rotate: false
+  xy: 133, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile084
+  rotate: false
+  xy: 199, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile085
+  rotate: false
+  xy: 265, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile086
+  rotate: false
+  xy: 331, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile087
+  rotate: false
+  xy: 397, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile088
+  rotate: false
+  xy: 463, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile089
+  rotate: false
+  xy: 529, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile090
+  rotate: false
+  xy: 595, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile091
+  rotate: false
+  xy: 661, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile092
+  rotate: false
+  xy: 727, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile093
+  rotate: false
+  xy: 793, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile167
+  rotate: false
+  xy: 793, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile236
+  rotate: false
+  xy: 793, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile094
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile095
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile096
+  rotate: false
+  xy: 133, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile097
+  rotate: false
+  xy: 199, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile099
+  rotate: false
+  xy: 265, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile100
+  rotate: false
+  xy: 331, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile101
+  rotate: false
+  xy: 397, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile102
+  rotate: false
+  xy: 463, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile104
+  rotate: false
+  xy: 529, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile105
+  rotate: false
+  xy: 595, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile106
+  rotate: false
+  xy: 661, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile107
+  rotate: false
+  xy: 727, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile108
+  rotate: false
+  xy: 793, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile109
+  rotate: false
+  xy: 859, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile110
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile111
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile112
+  rotate: false
+  xy: 133, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile113
+  rotate: false
+  xy: 199, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile114
+  rotate: false
+  xy: 265, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile115
+  rotate: false
+  xy: 331, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile116
+  rotate: false
+  xy: 397, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile117
+  rotate: false
+  xy: 463, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile118
+  rotate: false
+  xy: 529, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile119
+  rotate: false
+  xy: 595, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile124
+  rotate: false
+  xy: 595, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile129
+  rotate: false
+  xy: 595, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile120
+  rotate: false
+  xy: 661, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile121
+  rotate: false
+  xy: 727, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile122
+  rotate: false
+  xy: 793, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile123
+  rotate: false
+  xy: 859, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile125
+  rotate: false
+  xy: 925, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile126
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile127
+  rotate: false
+  xy: 133, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile128
+  rotate: false
+  xy: 199, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile130
+  rotate: false
+  xy: 265, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile131
+  rotate: false
+  xy: 331, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile132
+  rotate: false
+  xy: 397, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile133
+  rotate: false
+  xy: 463, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile134
+  rotate: false
+  xy: 529, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile135
+  rotate: false
+  xy: 595, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile136
+  rotate: false
+  xy: 661, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile137
+  rotate: false
+  xy: 727, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile138
+  rotate: false
+  xy: 793, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile139
+  rotate: false
+  xy: 859, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile140
+  rotate: false
+  xy: 925, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile141
+  rotate: false
+  xy: 991, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile142
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile143
+  rotate: false
+  xy: 199, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile144
+  rotate: false
+  xy: 265, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile145
+  rotate: false
+  xy: 331, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile146
+  rotate: false
+  xy: 397, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile147
+  rotate: false
+  xy: 463, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile148
+  rotate: false
+  xy: 529, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile149
+  rotate: false
+  xy: 595, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile150
+  rotate: false
+  xy: 661, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile151
+  rotate: false
+  xy: 727, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile152
+  rotate: false
+  xy: 793, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile153
+  rotate: false
+  xy: 859, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile154
+  rotate: false
+  xy: 925, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile155
+  rotate: false
+  xy: 991, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile156
+  rotate: false
+  xy: 1057, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile158
+  rotate: false
+  xy: 199, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile161
+  rotate: false
+  xy: 265, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile163
+  rotate: false
+  xy: 331, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile164
+  rotate: false
+  xy: 397, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile165
+  rotate: false
+  xy: 463, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile166
+  rotate: false
+  xy: 529, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile168
+  rotate: false
+  xy: 595, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile169
+  rotate: false
+  xy: 661, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile170
+  rotate: false
+  xy: 727, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile171
+  rotate: false
+  xy: 793, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile173
+  rotate: false
+  xy: 859, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile174
+  rotate: false
+  xy: 925, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile175
+  rotate: false
+  xy: 991, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile176
+  rotate: false
+  xy: 1057, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile177
+  rotate: false
+  xy: 1123, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile178
+  rotate: false
+  xy: 265, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile179
+  rotate: false
+  xy: 331, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile180
+  rotate: false
+  xy: 397, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile181
+  rotate: false
+  xy: 463, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile182
+  rotate: false
+  xy: 529, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile183
+  rotate: false
+  xy: 595, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile184
+  rotate: false
+  xy: 661, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile185
+  rotate: false
+  xy: 727, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile186
+  rotate: false
+  xy: 793, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile187
+  rotate: false
+  xy: 859, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile188
+  rotate: false
+  xy: 925, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile193
+  rotate: false
+  xy: 925, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile198
+  rotate: false
+  xy: 925, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile189
+  rotate: false
+  xy: 991, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile190
+  rotate: false
+  xy: 1057, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile191
+  rotate: false
+  xy: 1123, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile192
+  rotate: false
+  xy: 1189, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile194
+  rotate: false
+  xy: 331, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile195
+  rotate: false
+  xy: 397, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile196
+  rotate: false
+  xy: 463, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile197
+  rotate: false
+  xy: 529, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile199
+  rotate: false
+  xy: 595, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile200
+  rotate: false
+  xy: 661, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile201
+  rotate: false
+  xy: 727, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile202
+  rotate: false
+  xy: 793, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile203
+  rotate: false
+  xy: 859, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile204
+  rotate: false
+  xy: 925, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile205
+  rotate: false
+  xy: 991, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile206
+  rotate: false
+  xy: 1057, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile207
+  rotate: false
+  xy: 1123, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile208
+  rotate: false
+  xy: 1189, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile209
+  rotate: false
+  xy: 1255, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile210
+  rotate: false
+  xy: 397, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile211
+  rotate: false
+  xy: 463, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile212
+  rotate: false
+  xy: 529, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile213
+  rotate: false
+  xy: 595, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile214
+  rotate: false
+  xy: 661, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile215
+  rotate: false
+  xy: 727, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile216
+  rotate: false
+  xy: 793, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile217
+  rotate: false
+  xy: 859, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile218
+  rotate: false
+  xy: 925, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile219
+  rotate: false
+  xy: 991, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile220
+  rotate: false
+  xy: 1057, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile221
+  rotate: false
+  xy: 1123, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile222
+  rotate: false
+  xy: 1189, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile223
+  rotate: false
+  xy: 1255, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile224
+  rotate: false
+  xy: 1321, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile225
+  rotate: false
+  xy: 463, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile226
+  rotate: false
+  xy: 529, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile227
+  rotate: false
+  xy: 595, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile228
+  rotate: false
+  xy: 661, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile229
+  rotate: false
+  xy: 727, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile230
+  rotate: false
+  xy: 793, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile232
+  rotate: false
+  xy: 859, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile233
+  rotate: false
+  xy: 925, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile234
+  rotate: false
+  xy: 991, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile235
+  rotate: false
+  xy: 1057, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile237
+  rotate: false
+  xy: 1123, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile238
+  rotate: false
+  xy: 1189, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile239
+  rotate: false
+  xy: 1255, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile240
+  rotate: false
+  xy: 1321, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile242
+  rotate: false
+  xy: 1387, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile243
+  rotate: false
+  xy: 529, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile244
+  rotate: false
+  xy: 595, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile245
+  rotate: false
+  xy: 661, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile246
+  rotate: false
+  xy: 727, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile247
+  rotate: false
+  xy: 793, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile248
+  rotate: false
+  xy: 859, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile249
+  rotate: false
+  xy: 925, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile250
+  rotate: false
+  xy: 991, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile251
+  rotate: false
+  xy: 1057, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile252
+  rotate: false
+  xy: 1123, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile253
+  rotate: false
+  xy: 1189, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile254
+  rotate: false
+  xy: 1255, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile255
+  rotate: false
+  xy: 1321, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile256
+  rotate: false
+  xy: 1387, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile257
+  rotate: false
+  xy: 1453, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile262
+  rotate: false
+  xy: 1453, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile267
+  rotate: false
+  xy: 1453, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile258
+  rotate: false
+  xy: 595, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile259
+  rotate: false
+  xy: 661, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile260
+  rotate: false
+  xy: 727, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile261
+  rotate: false
+  xy: 793, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile263
+  rotate: false
+  xy: 859, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile264
+  rotate: false
+  xy: 925, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile265
+  rotate: false
+  xy: 991, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile266
+  rotate: false
+  xy: 1057, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile268
+  rotate: false
+  xy: 1123, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile269
+  rotate: false
+  xy: 1189, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile270
+  rotate: false
+  xy: 1255, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile271
+  rotate: false
+  xy: 1321, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile272
+  rotate: false
+  xy: 1387, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile273
+  rotate: false
+  xy: 1453, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile274
+  rotate: false
+  xy: 1519, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile275
+  rotate: false
+  xy: 661, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile276
+  rotate: false
+  xy: 727, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile277
+  rotate: false
+  xy: 793, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile278
+  rotate: false
+  xy: 859, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile279
+  rotate: false
+  xy: 925, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile280
+  rotate: false
+  xy: 991, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile281
+  rotate: false
+  xy: 1057, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile282
+  rotate: false
+  xy: 1123, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile283
+  rotate: false
+  xy: 1189, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile284
+  rotate: false
+  xy: 1255, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile285
+  rotate: false
+  xy: 1321, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile286
+  rotate: false
+  xy: 1387, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile287
+  rotate: false
+  xy: 1453, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile288
+  rotate: false
+  xy: 1519, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile289
+  rotate: false
+  xy: 1585, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile290
+  rotate: false
+  xy: 727, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile291
+  rotate: false
+  xy: 793, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile292
+  rotate: false
+  xy: 859, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile293
+  rotate: false
+  xy: 925, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile294
+  rotate: false
+  xy: 991, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile295
+  rotate: false
+  xy: 1057, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile296
+  rotate: false
+  xy: 1123, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile297
+  rotate: false
+  xy: 1189, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile298
+  rotate: false
+  xy: 1255, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+towerDefense_tile299
+  rotate: false
+  xy: 1321, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
