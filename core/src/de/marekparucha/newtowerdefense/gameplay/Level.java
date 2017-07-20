@@ -39,15 +39,15 @@ public class Level implements InputProcessor, Screen, GestureDetector.GestureLis
     private NewTowerDefense ntd;
     private float currentZoom;
     private Stage stageBuilding;
-    private GameController gameController;
     private PlayerHUD playerHUD;
 
 
 
-    public Level(NewTowerDefense ntd, int level, PlayerHUD playerHUD)
+    public Level(NewTowerDefense ntd, int level, PlayerHUD playerHUD, TiledMap tiledMap)
     {
         this.ntd = ntd;
         this.playerHUD = playerHUD;
+        this.tiledMap = tiledMap;
     }
     @Override
     public void show() {
@@ -56,15 +56,11 @@ public class Level implements InputProcessor, Screen, GestureDetector.GestureLis
 
 
         camera = new OrthographicCamera(w,h);
-       /* viewportHUD = new FillViewport(1080,1920);
-        playerHUD.setViewport(viewportHUD);
-        playerHUD.setPositions();*/
         viewportInGame = new FillViewport(1024,2048,camera);
         viewportInGame.apply();
         camera.position.set(camera.viewportWidth / 2f, camera.viewportHeight / 2f, 0);
         camera.update();
         Gdx.app.log("camera", camera.position.toString());
-        tiledMap = new TmxMapLoader().load("maps/map1.tmx");
         tiledMapRenderer = new OrthogonalTiledMapRenderer(tiledMap);
         stageBuilding = new Stage();
 
@@ -81,17 +77,6 @@ public class Level implements InputProcessor, Screen, GestureDetector.GestureLis
         TiledMapTileLayer layer = (TiledMapTileLayer) tiledMap.getLayers().get("Kachelebene 4");
         createBuildingForLayer(layer);
 
-        TiledMapTileSets set = tiledMap.getTileSets();
-
-        Gdx.app.log("x",set.getTile(255)+"");
-        Gdx.app.log("y",set.getTile(255).getTextureRegion().getRegionY()+"");
-        for( int i = 0; i < layer.getHeight()/layer.getTileHeight();i++)
-        {
-            for (int j = 0; j < layer.getWidth()/layer.getTileWidth();j++)
-            {
-                System.out.println("test");
-            }
-        }
 
     }
 
@@ -319,6 +304,5 @@ public class Level implements InputProcessor, Screen, GestureDetector.GestureLis
     public boolean pinch(Vector2 initialPointer1, Vector2 initialPointer2, Vector2 pointer1, Vector2 pointer2) {
         return false;
     }
-
 
 }
