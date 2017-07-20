@@ -1,6 +1,7 @@
 package de.marekparucha.newtowerdefense.screens;
 
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
@@ -14,6 +15,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
 import de.marekparucha.newtowerdefense.NewTowerDefense;
+import de.marekparucha.newtowerdefense.gameplay.controller.GameController;
 
 /**
  * Created by Marek on 18.07.2017.
@@ -25,6 +27,7 @@ public class MainMenuScreen implements Screen {
     private Skin skinRed;
     private Stage stage;
     private NewTowerDefense ntd;
+    private GameController gameController;
 
     public MainMenuScreen(NewTowerDefense ntd)
     {
@@ -36,8 +39,12 @@ public class MainMenuScreen implements Screen {
         ntd.batch = new SpriteBatch();
         skinGreen = new Skin();
         skinRed = new Skin();
-        FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal("ui/kenvector_future_thin.ttf"));
+        final FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal("ui/kenvector_future_thin.ttf"));
         FreeTypeFontGenerator.FreeTypeFontParameter parameter = new FreeTypeFontGenerator.FreeTypeFontParameter();
+        parameter.borderColor = Color.RED;
+        parameter.shadowColor = Color.BLACK;
+        parameter.shadowOffsetX = 5;
+        parameter.shadowOffsetY = 5;
         parameter.size = 48;
         BitmapFont font12 = generator.generateFont(parameter); // font size 12 pixels
         generator.dispose(); // don't forget to dispose to avoid memory leaks!
@@ -64,7 +71,8 @@ public class MainMenuScreen implements Screen {
         startButton.addListener(new ClickListener(){
             @Override
             public void clicked(InputEvent event, float x, float y){
-                ntd.setScreen(new InGameScreen(ntd));
+                gameController = new GameController(ntd);
+                gameController.start();
 
             }
         });
